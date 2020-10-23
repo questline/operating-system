@@ -1,6 +1,15 @@
 :: Menu Screen
 hello user,<br>
 welcome to the menu screen<br>
-[[> play games|Standing up]]<br>
-[[> surf the web|Standing up]]<br>
-[[> follow the path|Standing up]]
+[[> play games|Games Screen]]<br>
+[[> surf the web|Web Browser]]<br>
+[[> follow the path|The Path]]
+
+:: Games Screen
+check out these fun games!
+
+:: Web Browser
+have fun surfing the web
+
+:: The Path
+the path forward will lead to greatness
