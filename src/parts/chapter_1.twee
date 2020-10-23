@@ -1,0 +1,6 @@
+:: Menu Screen
+hello user,<br>
+welcome to the menu screen<br>
+[[> play games|Standing up]]<br>
+[[> surf the web|Standing up]]<br>
+[[> follow the path|Standing up]]
