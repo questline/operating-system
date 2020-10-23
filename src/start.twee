@@ -23,6 +23,5 @@ Version: 0.0.1
 by Vuwnu
 
 ::Start
-You power up your PC. The screen flashes an array of bright colors.<br>
-The OS of the future!
-[[press enter|Menu Screen]]
+welcome to the OS of the future!
+[[> press enter|Menu Screen]]
